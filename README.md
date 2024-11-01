@@ -13,5 +13,5 @@
 
 
 ## 🌐Socials
-[![LinkedIn]](h[ttps://medium.com/@CodeWhiteWeb](https://www.linkedin.com/in/ryan-yanuar-pradana-672363270/))
+[![LinkedIn]](https://medium.com/@CodeWhiteWeb](https://www.linkedin.com/in/ryan-yanuar-pradana-672363270/))
 </div>
